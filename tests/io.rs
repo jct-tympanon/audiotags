@@ -86,3 +86,5 @@ macro_rules! test_file {
 test_file!(test_mp3, "assets/a.mp3");
 test_file!(test_m4a, "assets/a.m4a");
 test_file!(test_flac, "assets/a.flac");
+test_file!(test_wav, "assets/a.wav");
+test_file!(test_aiff, "assets/a.aif");
